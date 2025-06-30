@@ -59,7 +59,7 @@ A fast-paced 2D maze game inspired by **Bomberman**, built using **Next.js** and
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/pixel-blaster.git
+git clone https://github.com/ashu191/pixel-blaster.git
 cd pixel-blaster
 npm install
 npm run dev
