@@ -1,4 +1,4 @@
-# 🎮 Pixel Blaster: Maze Mayhem 
+# 🎮 Pixel Blaster: Maze Mayhem  
 
 A fast-paced 2D maze game inspired by **Bomberman**, built using **Next.js** and **TypeScript**. Blast your way through walls, dodge enemies, and rack up high scores—all without a login system!
 
